@@ -4,8 +4,10 @@ fastest, smallest and simplest template engine, using JS's literal template feat
 This is just a simple wrapper for Express, around [template-literal](https://github.com/Drulac/template-literal).
 
 ## Easy to use
-`npm i express-tl`
-append it to your app code :
+run `npm i express-tl`
+
+and append it to your app code :
+
 ```javascript
 const tl = require('express-tl')
 
@@ -16,7 +18,7 @@ app.set('view engine', 'tl') // register the template engine
 
 Watch [template-literal](https://github.com/Drulac/template-literal) to know how to use it
 
-You can see an example app in [examples/](examples/)
+You can see an example app in [example/](example/)
 
 # Donate
 You can make me a donation to support my work :
