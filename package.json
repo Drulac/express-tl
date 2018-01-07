@@ -1,0 +1,28 @@
+{
+  "name": "express-tl",
+  "version": "1.0.0",
+  "description": "fastest, smallest and simplest template engine, using JS's literal template feature, in an express template engine",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "template-literal": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cd example && node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drulac/express-tl/tree/master"
+  },
+  "keywords": [
+    "template",
+    "engine",
+    "express",
+    "fast"
+  ],
+  "author": "Drulac <drulac@protonmail.com> (https://github.com/Drulac/)",
+  "license": "GPL-3.0"
+}
