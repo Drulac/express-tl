@@ -1,6 +1,6 @@
 {
   "name": "express-tl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fastest, smallest and simplest template engine, using JS's literal template feature, in an express template engine",
   "main": "index.js",
   "directories": {
